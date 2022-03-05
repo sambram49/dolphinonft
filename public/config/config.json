@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaB4cFaD723DfB40Fc9cDad4708586c5eA5d4EcdD",
+  "SCAN_LINK": "https://etherscan.io/token/0xab4cfad723dfb40fc9cdad4708586c5ea5d4ecdd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "DolphinoNFT",
+  "SYMBOL": "DOLFAMS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dolphinonft",
+  "SHOW_BACKGROUND": true
+}
